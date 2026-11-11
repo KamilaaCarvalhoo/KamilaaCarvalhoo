@@ -1,128 +1,179 @@
-👩‍💻 Kamila Carvalho
-Full Stack Developer | Mobile Developer | Software Engineering Student
+<!-- BANNER -->
 
-<p align="center">
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120B24,50:6C35B5,100:B47AFF&height=200&section=header&text=KAMILA%20CARVALHO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20%7C%20MOBILE%20DEVELOPER&descAlignY=58&descSize=16" />
+
+<h3>👩‍💻 Desenvolvedora de Software | Criadora de Produtos Digitais</h3>
+
+<p>
 Transformando ideias em produtos digitais, experiências e soluções tecnológicas.
 </p>
 
-<p align="center">
-<a href="https://github.com/KamilaCarvalho">
-<img src="https://img.shields.io/badge/GitHub-KamilaCarvalho-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/KamilaaCarvalhoo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://flow-ux-portf-eyv1t037w-kamilaacarvalhoos-projects.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
 
-💜 About Me
+</div>
+
+💜 ABOUT ME
 
 Olá! Sou Kamila Carvalho, desenvolvedora apaixonada por tecnologia, inovação e criação de produtos digitais.
 
-Atualmente estou no 4º período de Análise e Desenvolvimento de Sistemas (ADS) e venho construindo minha trajetória através do desenvolvimento de aplicações reais, projetos independentes e soluções tecnológicas.
+🎓 Atualmente estou no 4º período de Análise e Desenvolvimento de Sistemas (ADS).
 
-Gosto de transformar ideias em produtos funcionais, participar de todas as etapas do desenvolvimento e explorar novas possibilidades através da tecnologia.
+Minha jornada na tecnologia é marcada pela criação de projetos reais, desde a concepção de ideias até o desenvolvimento e publicação de produtos digitais.
 
-Minha experiência prática inclui desenvolvimento de aplicativos mobile publicados nas lojas oficiais, criação de jogos, sistemas Full Stack e desenvolvimento de interfaces web.
+Já desenvolvi:
 
-Acredito que desenvolver software é muito mais do que escrever código: é criar soluções, proporcionar experiências e transformar ideias em realidade.
+🚗 Aplicativo de mobilidade feminina publicado na Google Play e App Store.
+🎮 Jogo mobile publicado na Google Play.
+💼 Sistema CRM Full Stack.
+🎨 Diversas landing pages e interfaces web.
+🌐 Projetos focados em experiência do usuário e produtos digitais.
 
-🎓 Academic Background
-Curso: Análise e Desenvolvimento de Sistemas (ADS).
-Instituição: Ensino superior.
-Período atual: 4º período.
-Interesses: Desenvolvimento Full Stack, aplicações mobile, arquitetura de software e inovação tecnológica.
-🚀 Featured Projects
-🚗 Kiva Drive — Women's Mobility App
+Gosto de transformar ideias em soluções funcionais, explorar novas tecnologias e participar de todas as etapas do desenvolvimento.
 
-Aplicativo de mobilidade feminina desenvolvido com o objetivo de proporcionar uma experiência de mobilidade voltada às mulheres.
+Meu objetivo é construir tecnologia que resolva problemas e gere experiências reais.
 
-Um projeto que une tecnologia, inovação e propósito, buscando oferecer uma solução digital para o setor de mobilidade.
+🎓 ACADEMIC BACKGROUND
 
-📱 Publicado na Google Play Store.
-🍎 Publicado na Apple App Store.
-💜 Produto digital de mobilidade feminina.
-🎮 Ryllo — Mobile Game
+<div align="center">
 
-Jogo mobile desenvolvido como um projeto independente, explorando o desenvolvimento de experiências interativas e o universo dos jogos digitais.
+Formação	Status
+Análise e Desenvolvimento de Sistemas	📚 Em andamento
+Período atual	4º período
+Área de interesse	Engenharia de Software
 
-📱 Disponível na Google Play Store.
-🎮 Projeto de desenvolvimento de jogo mobile.
-💼 Full Stack CRM
+</div>
 
-Desenvolvimento de um sistema CRM Full Stack, com foco no gerenciamento de relacionamento com clientes e na construção de uma aplicação web completa.
+🚀 FEATURED PROJECTS
+🚗 KIVA DRIVE
 
-O projeto envolve desenvolvimento de interface, funcionalidades e integração entre frontend e backend.
+Women's Mobility Application
 
-💻 Desenvolvimento Full Stack.
-🔄 Integração entre frontend e backend.
-📊 Sistema de gerenciamento.
-✨ Experiência e interface de usuário.
-🎨 Web Development & Landing Pages
+Aplicativo de mobilidade feminina desenvolvido com foco em tecnologia, praticidade e uma experiência pensada para mulheres.
 
-Desenvolvimento de diversas landing pages e interfaces web, explorando design moderno, responsividade, experiência do usuário e apresentação de produtos digitais.
+Um produto digital que une inovação e propósito no setor de mobilidade.
 
-Desenvolvimento de interfaces.
-Design responsivo.
-Experiência do usuário (UX).
-Identidade visual e apresentação de produtos.
+<div align="center">
 
-🌐 Explore my portfolio
+<img src="https://img.shields.io/badge/Google_Play-Published-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
+<img src="https://img.shields.io/badge/App_Store-Published-007AFF?style=for-the-badge&logo=apple&logoColor=white"/>
 
-🛠️ Areas of Interest
-Full Stack Development
-Mobile Application Development
-Frontend Development
-Backend Development
-UI/UX Design
-Web Development
-Game Development
-Digital Product Development
-💻 Technologies & Tools
+</div>
 
-Tecnologias e ferramentas que fazem parte da minha jornada de desenvolvimento:
+🎮 RYLLO
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgresql,git,github,vscode,figma,firebase" />
-</p>
+Mobile Game Development
 
-🌐 My Portfolio
+Jogo mobile desenvolvido como projeto independente, explorando o universo de desenvolvimento de jogos e experiências interativas.
 
-Conheça alguns dos meus projetos, interfaces e experiências de desenvolvimento.
+<div align="center">
 
-<p align="center">
+<img src="https://img.shields.io/badge/Google_Play-Published-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
+
+</div>
+
+💼 FULL STACK CRM
+
+Customer Relationship Management
+
+Desenvolvimento de uma aplicação CRM Full Stack para gerenciamento de relacionamento com clientes.
+
+Desenvolvimento de interface.
+Funcionalidades de gerenciamento.
+Integração entre frontend e backend.
+Construção de aplicação web completa.
+🎨 WEB DEVELOPMENT & LANDING PAGES
+
+UI/UX | Responsive Websites | Digital Experiences
+
+Desenvolvimento de diversas landing pages e interfaces web, explorando design moderno, responsividade e experiência do usuário.
+
+Interfaces modernas e responsivas.
+Design e experiência do usuário.
+Apresentação de produtos digitais.
+Desenvolvimento de páginas web.
+
+<div align="center">
+
 <a href="https://flow-ux-portf-eyv1t037w-kamilaacarvalhoos-projects.vercel.app">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
 
-📱 Published Products
-Project	Platform	Status
-Kiva Drive	Google Play Store	Published
-Kiva Drive	Apple App Store	Published
-Ryllo	Google Play Store	Published
-📊 GitHub Journey
+</div>
 
-Aqui compartilho projetos, experimentos, estudos e soluções desenvolvidas durante minha jornada na tecnologia.
+🛠️ TECHNOLOGIES & TOOLS
 
-Meu objetivo é continuar evoluindo como desenvolvedora, criando produtos cada vez mais completos e explorando novas tecnologias.
+<div align="center">
 
-🤝 Let's Connect!
+Development
 
-Estou aberta a conexões, oportunidades profissionais, colaborações e novos desafios na área de tecnologia.
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python" />
 
-<p align="left">
-<a href="https://github.com/KamilaCarvalho">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+Database & Tools
+
+<img src="https://skillicons.dev/icons?i=postgresql,firebase,git,github,vscode,figma" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/pgAdmin%204-Database%20Administration-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</div>
+
+📱 PUBLISHED PRODUCTS
+
+<div align="center">
+
+Product	Platform	Status
+🚗 Kiva Drive	Google Play	Published
+🚗 Kiva Drive	Apple App Store	Published
+🎮 Ryllo	Google Play	Published
+
+</div>
+
+📊 GITHUB STATISTICS
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=KamilaaCarvalhoo&show_icons=true&theme=tokyonight&hide_border=true&title_color=B47AFF&icon_color=B47AFF&include_all_commits=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilaaCarvalhoo&layout=compact&theme=tokyonight&hide_border=true&title_color=B47AFF"/>
+
+<br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=KamilaaCarvalhoo&theme=tokyonight&hide_border=true&ring=B47AFF&fire=B47AFF&currStreakLabel=B47AFF"/>
+
+</div>
+
+🌐 LET'S CONNECT
+
+<div align="center">
+
+<a href="https://github.com/KamilaaCarvalhoo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://flow-ux-portf-eyv1t037w-kamilaacarvalhoos-projects.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
 
-<p align="center">
-<b>"Não espero uma ideia se tornar realidade. Eu construo."</b>
-</p>
+</div>
 
-<p align="center">
-Feito com 💜 por Kamila Carvalho
-</p>
+Estou aberta a oportunidades profissionais, conexões, colaborações e novos desafios na área de tecnologia.
+
+<div align="center">
+
+💜
+
+"Não espero uma ideia se tornar realidade. Eu construo."
+
+Desenvolvido com dedicação por Kamila Carvalho.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120B24,50:6C35B5,100:B47AFF&height=100&section=footer"/>
+
+</div>

@@ -82,7 +82,7 @@ Digital Product Development
 Tecnologias e ferramentas que fazem parte da minha jornada de desenvolvimento:
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode,figma,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgresql,git,github,vscode,figma,firebase" />
 </p>
 
 🌐 My Portfolio

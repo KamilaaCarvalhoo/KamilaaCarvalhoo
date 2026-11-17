@@ -38,6 +38,7 @@ Minha trajetória é marcada pela entrega de projetos reais de ponta a ponta —
 - 🚗 **Kiva Drive:** Aplicativo de mobilidade feminina publicado nas principais lojas globais (Google Play e App Store).
 - 🎮 **Ryllo:** Jogo mobile independente publicado na Google Play.
 - 💼 **Tervalya CRM:** Sistema Full Stack completo para gestão de relacionamento.
+- 💬 **Smart Chat / Chat Application:** Aplicação interativa de chat em tempo real com inteligência conversacional.
 - 🎨 **FlowUX:** Criação de landing pages, identidade visual e experiências digitais de alta conversão.
 
 Meu objetivo é desenvolver soluções tecnológicas que resolvam problemas reais e proporcionem experiências memoráveis aos usuários.
@@ -86,6 +87,21 @@ Aplicação web Full Stack desenvolvida para otimizar a gestão de clientes, apr
 <div align="center">
   <a href="https://github.com/KamilaCarvalho/TERVALYA-CRM">
     <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+### 💬 CHAT APPLICATION
+**Interactive AI & Messaging System**
+
+Desenvolvimento de aplicação de chat inteligente e dinâmico, integrando comunicação em tempo real, suporte a assistentes e interfaces conversacionais modernas.
+
+- Interface fluida com foco em UX conversacional.
+- Gerenciamento de mensagens e estados em tempo real.
+- Integração front-end altamente responsiva.
+
+<div align="center">
+  <a href="https://github.com/KamilaCarvalho">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 

@@ -1,4 +1,4 @@
- <!-- PURPLE DEVELOPER PROFILE -->
+<!-- PURPLE DEVELOPER PROFILE -->
 
 <div align="center">
 
@@ -6,16 +6,21 @@
 
 # 👩‍💻 Kamila Carvalho
 
-### Full Stack Developer | Mobile Developer | Digital Product Creator
+### Full Stack Developer | Mobile Developer | UX/UI Designer
 
-*Transformando ideias em produtos digitais, experiências e soluções tecnológicas.*
+*Transformando ideias em produtos digitais, experiências e soluções tecnológicas de alto impacto.*
 
-<a href="https://github.com/KamilaCarvalho">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://flow-ux-portf-lio-9t1q.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px; margin-bottom: 10px;">
+  <a href="https://github.com/KamilaCarvalho">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kamila-carvalho-a735b0316">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://flow-ux-portf-lio-9t1q.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</div>
 
 </div>
 
@@ -23,33 +28,28 @@
 
 ## 💜 ABOUT ME
 
-Olá! Sou Kamila Carvalho, desenvolvedora de software apaixonada por tecnologia, inovação e criação de produtos digitais.
+Olá! Sou Kamila Carvalho, desenvolvedora de software e criadora de produtos digitais sob a marca **FlowUX**. Sou apaixonada por unir engenharia de software limpa, design moderno e experiência do usuário impecável.
 
-🎓 Atualmente estou no 4º período de Análise e Desenvolvimento de Sistemas (ADS).
+🎓 Atualmente estou no **4º período de Análise e Desenvolvimento de Sistemas (ADS)** na FMU.
 
-Minha jornada na tecnologia é marcada pela criação de projetos reais, desde a concepção de ideias até o desenvolvimento e publicação de produtos digitais.
+Minha trajetória é marcada pela entrega de projetos reais de ponta a ponta — desde a concepção de interfaces no Figma até o desenvolvimento, testes e publicação de aplicações mobile e web escaláveis.
 
-**Já desenvolvi:**
+**Destaques da minha jornada:**
+- 🚗 **Kiva Drive:** Aplicativo de mobilidade feminina publicado nas principais lojas globais (Google Play e App Store).
+- 🎮 **Ryllo:** Jogo mobile independente publicado na Google Play.
+- 💼 **Tervalya CRM:** Sistema Full Stack completo para gestão de relacionamento.
+- 🎨 **FlowUX:** Criação de landing pages, identidade visual e experiências digitais de alta conversão.
 
-- 🚗 Aplicativo de mobilidade feminina publicado na Google Play e App Store.
-- 🎮 Jogo mobile publicado na Google Play.
-- 💼 Sistema CRM Full Stack.
-- 🎨 Diversas landing pages e interfaces web.
-- 🌐 Projetos focados em experiência do usuário e produtos digitais.
-
-Gosto de transformar ideias em soluções funcionais, explorar novas tecnologias e participar de todas as etapas do desenvolvimento.
-
-Meu objetivo é construir tecnologia que resolva problemas e gere experiências reais.
+Meu objetivo é desenvolver soluções tecnológicas que resolvam problemas reais e proporcionem experiências memoráveis aos usuários.
 
 ---
 
 ## 🎓 ACADEMIC BACKGROUND
 
-| Formação | Status |
+| Formação | Status / Detalhes |
 |:---|:---|
-| Análise e Desenvolvimento de Sistemas | 📚 Em andamento |
-| Período atual | 4º período |
-| Área de interesse | Engenharia de Software |
+| **Análise e Desenvolvimento de Sistemas (ADS)** | 📚 4º Período (FMU) |
+| **Área de Foco** | Engenharia de Software & Arquitetura Web/Mobile |
 
 ---
 
@@ -58,58 +58,46 @@ Meu objetivo é construir tecnologia que resolva problemas e gere experiências 
 ### 🚗 KIVA DRIVE
 **Women's Mobility Application**
 
-Aplicativo de mobilidade feminina desenvolvido com foco em tecnologia, praticidade e uma experiência pensada para mulheres.
-
-Um produto digital que une inovação e propósito no setor de mobilidade.
+Aplicativo de mobilidade urbana voltado para o público feminino, desenvolvido com foco em segurança, praticidade e uma experiência de usuário fluida e acolhedora. Um produto que une inovação tecnológica e propósito social.
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Google_Play-Published-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
-<img src="https://img.shields.io/badge/App_Store-Published-007AFF?style=for-the-badge&logo=apple&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Google_Play-Published-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/App_Store-Published-007AFF?style=for-the-badge&logo=apple&logoColor=white"/>
 </div>
 
 ### 🎮 RYLLO
 **Mobile Game Development**
 
-Jogo mobile desenvolvido como projeto independente, explorando o universo de desenvolvimento de jogos e experiências interativas.
+Jogo mobile desenvolvido de forma independente, explorando o ecossistema de games, mecânicas interativas e otimização de performance para dispositivos móveis.
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Google_Play-Published-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Google_Play-Published-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
 </div>
 
 ### 💼 TERVALYA CRM
 **Customer Relationship Management**
 
-Desenvolvimento de uma aplicação CRM Full Stack para gerenciamento de relacionamento com clientes.
+Aplicação web Full Stack desenvolvida para otimizar a gestão de clientes, apresentando arquitetura limpa, segurança de dados e uma interface altamente responsiva.
 
-- Interface moderna e responsiva.
-- Funcionalidades de gerenciamento.
-- Integração entre frontend e backend.
-- Construção de aplicação web completa.
-
-<a href="https://github.com/KamilaCarvalho/TERVALYA-CRM">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-### 🎨 WEB DEVELOPMENT & LANDING PAGES
-**UI/UX | Responsive Websites | Digital Experiences**
-
-Desenvolvimento de diversas landing pages e interfaces web, explorando design moderno, responsividade e experiência do usuário.
-
-- Interfaces modernas e responsivas.
-- Design e experiência do usuário.
-- Apresentação de produtos digitais.
-- Desenvolvimento de páginas web.
+- Arquitetura e integração robusta entre Frontend e Backend.
+- Gestão dinâmica de dados e relatórios.
+- Interface moderna focada em produtividade.
 
 <div align="center">
+  <a href="https://github.com/KamilaCarvalho/TERVALYA-CRM">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
-<a href="https://flow-ux-portf-lio-9t1q.vercel.app">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+### 🎨 WEB DEVELOPMENT & LANDING PAGES
+**UI/UX Design | Responsive Web | Digital Branding**
 
+Criação de ecossistemas web completos, portfólios e páginas de conversão com foco estético em *dark-mode*, tipografia marcante e performance otimizada.
+
+<div align="center">
+  <a href="https://flow-ux-portf-lio-9t1q.vercel.app">
+    <img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </div>
 
 ---
@@ -118,20 +106,16 @@ Desenvolvimento de diversas landing pages e interfaces web, explorando design mo
 
 <div align="center">
 
-### Frontend & Development
+### Frontend & Core
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,python" />
+### Mobile & Backend
+<img src="https://skillicons.dev/icons?i=react,expo,nodejs,express,python" />
 
-### Mobile Development
-
-<img src="https://skillicons.dev/icons?i=react,expo" />
-
-### Database & Tools
-
-<img src="https://skillicons.dev/icons?i=postgresql,firebase,git,github,vscode,figma" />
+### Database, DevOps & Design
+<img src="https://skillicons.dev/icons?i=postgresql,firebase,git,github,vscode,figma,photoshop" />
 
 <br/>
-
 <img src="https://img.shields.io/badge/pgAdmin%204-Database%20Administration-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </div>
@@ -144,9 +128,9 @@ Desenvolvimento de diversas landing pages e interfaces web, explorando design mo
 
 | Product | Platform | Status |
 |:---|:---|:---|
-| 🚗 Kiva Drive | Google Play | 🟢 Published |
+| 🚗 Kiva Drive | Google Play Store | 🟢 Published |
 | 🚗 Kiva Drive | Apple App Store | 🟢 Published |
-| 🎮 Ryllo | Google Play | 🟢 Published |
+| 🎮 Ryllo | Google Play Store | 🟢 Published |
 
 </div>
 
@@ -156,11 +140,12 @@ Desenvolvimento de diversas landing pages e interfaces web, explorando design mo
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=KamilaCarvalho&show_icons=true&theme=tokyonight&hide_border=true&title_color=B47AFF&icon_color=B47AFF&include_all_commits=true"/>
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KamilaCarvalho&show_icons=true&theme=tokyonight&hide_border=true&title_color=B47AFF&icon_color=B47AFF&include_all_commits=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilaCarvalho&layout=compact&theme=tokyonight&hide_border=true&title_color=B47AFF"/>
+</p>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilaCarvalho&layout=compact&theme=tokyonight&hide_border=true&title_color=B47AFF"/>
-
-<br/><br/>
+<br/>
 
 <img width="90%" src="https://streak-stats.demolab.com?user=KamilaCarvalho&theme=tokyonight&hide_border=true&ring=B47AFF&fire=B47AFF&currStreakLabel=B47AFF"/>
 
@@ -175,26 +160,24 @@ Desenvolvimento de diversas landing pages e interfaces web, explorando design mo
 <a href="https://github.com/KamilaCarvalho">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+<a href="https://www.linkedin.com/in/kamila-carvalho-a735b0316">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <a href="https://flow-ux-portf-lio-9t1q.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/kamila-carvalho-a735b0316">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 </div>
 
-Estou aberta a oportunidades profissionais, conexões, colaborações e novos desafios na área de tecnologia.
+<br>
 
 <div align="center">
 
 💜
 
-### "Não espero uma ideia se tornar realidade. Eu construo."
+### *"Não espero uma ideia se tornar realidade. Eu construo."*
 
-**Desenvolvido com dedicação por Kamila Carvalho.**
+**Desenvolvido com dedicação por Kamila Carvalho (FlowUX).**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120B24,50:6C35B5,100:B47AFF&height=100&section=footer"/>
 

@@ -53,8 +53,8 @@ Meu objetivo é desenvolver soluções tecnológicas que resolvam problemas reai
 ### 🚗 KIVA DRIVE
 **Women's Mobility Application**
 Aplicativo de mobilidade urbana voltado para o público feminino, desenvolvido com foco em segurança, praticidade e uma experiência de usuário fluida.
-[![Google Play](https://img.shields.io/badge/Google_Play-Published-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://github.com/KamilaCarvalho)
-[![App Store](https://img.shields.io/badge/App_Store-Published-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/KamilaCarvalho)
+[![Google Play](https://play.google.com/store/apps/details?id=com.kivadrive.passageira&hl=pt_BR)
+[![App Store](https://apps.apple.com/br/app/kiva-drive/id6781337076)
 
 ### 🎮 RYLLO
 **Mobile Game Development**

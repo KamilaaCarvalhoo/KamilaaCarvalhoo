@@ -1,3 +1,4 @@
+
 <!-- PURPLE DEVELOPER PROFILE -->
 
 <div align="center">
@@ -26,12 +27,13 @@ Olá! Sou Kamila Carvalho, desenvolvedora de software e criadora de produtos dig
 
 🎓 Atualmente estou no **4º período de Análise e Desenvolvimento de Sistemas (ADS)** na FMU.
 
-Minha trajetória é marcada pela entrega de projetos reais de ponta a ponta — desde a concepção de interfaces no Figma até o desenvolvimento, testes e publicação de aplicações mobile e web escaláveis.
+Minha trajetória é marcada pela entrega de projetos reais de ponta a ponta — desde a concepção de interfaces no Figma até o desenvolvimento, testes e publicação de aplicações mobile, desktop e web escaláveis.
 
 **Destaques da minha jornada:**
-- 🚗 **Kiva Drive:** Aplicativo de mobilidade feminina publicado nas principais lojas globais (Google Play e App Store).
+- 🚗 **Kiva Drive:** Aplicativo de mobilidade feminina publicado na Google Play e App Store.
 - 🎮 **Ryllo:** Jogo mobile independente publicado na Google Play.
-- 💼 **Tervalya CRM:** Sistema Full Stack completo para gestão de relacionamento.
+- 💼 **Tervalya CRM:** Sistema Full Stack para gestão de relacionamento empresarial.
+- 🤖 **Zinho:** Assistente virtual para desktop desenvolvido com Electron, React e JavaScript, com mascote interativo, atalhos e gerenciamento de tarefas.
 - 💬 **Smart Chat Application:** Aplicação interativa de chat inteligente com foco em UX conversacional.
 - 🎨 **FlowUX:** Criação de landing pages, identidade visual e experiências digitais de alta conversão.
 
@@ -52,32 +54,53 @@ Meu objetivo é desenvolver soluções tecnológicas que resolvam problemas reai
 
 ### 🚗 KIVA DRIVE
 **Women's Mobility Application**
+
 Aplicativo de mobilidade urbana voltado para o público feminino, desenvolvido com foco em segurança, praticidade e uma experiência de usuário fluida.
+
 <br>
 <a href="https://play.google.com/store/apps/details?id=com.kivadrive.passageira&hl=pt_BR"><img src="https://img.shields.io/badge/Google_Play-Published-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
 <a href="https://apps.apple.com/br/app/kiva-drive/id6781337076"><img src="https://img.shields.io/badge/App_Store-Published-007AFF?style=for-the-badge&logo=apple&logoColor=white"/></a>
 
 ### 🎮 RYLLO
 **Mobile Game Development**
+
 Jogo mobile desenvolvido de forma independente, explorando o ecossistema de games e mecânicas interativas.
+
 <br>
 <a href="https://play.google.com/store/apps/details?id=com.flowux.ryllo&hl=pt_BR"><img src="https://img.shields.io/badge/Google_Play-Published-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
 
 ### 💼 TERVALYA CRM
 **Customer Relationship Management**
+
 Aplicação web Full Stack desenvolvida para otimizar a gestão de clientes, apresentando arquitetura limpa e interface altamente responsiva.
+
 <br>
 <a href="https://github.com/KamilaaCarvalhoo/TERVALYA-CRM"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+### 🤖 ZINHO
+**Interactive Desktop Virtual Assistant**
+
+Assistente virtual para Windows desenvolvido com React, JavaScript e Electron. Possui um mascote animado e interativo, atalhos para sites e programas, relógio, calendário e gerenciamento de tarefas com armazenamento local persistente.
+
+**Tecnologias:** React • JavaScript • Electron • Node.js • CSS
+
+<br>
+<a href="https://github.com/KamilaaCarvalhoo/Zinho"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/KamilaaCarvalhoo/Zinho/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/DOWNLOAD%20ZINHO-WINDOWS-34A853?style=for-the-badge&logo=windows&logoColor=white"/></a>
+
 ### 💬 CHAT APPLICATION
 **Interactive AI & Messaging System**
+
 Desenvolvimento de aplicação de chat inteligente, integrando comunicação em tempo real e interfaces conversacionais modernas.
+
 <br>
 <a href="https://github.com/KamilaCarvalho"><img src="https://img.shields.io/badge/VIEW%20PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ### 🎨 WEB DEVELOPMENT & LANDING PAGES
 **UI/UX Design | Responsive Web | Digital Branding**
+
 Criação de ecossistemas web completos, portfólios e páginas de conversão com foco estético em *dark-mode* e alta performance.
+
 <br>
 <a href="https://flow-ux-portf-lio-9t1q.vercel.app"><img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
@@ -98,6 +121,10 @@ Criação de ecossistemas web completos, portfólios e páginas de conversão co
 
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 
+### Desktop Development
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
 ### Database, DevOps & Design
 <img src="https://skillicons.dev/icons?i=postgresql,firebase,git,github,vscode,figma,photoshop" />
 
@@ -117,6 +144,7 @@ Criação de ecossistemas web completos, portfólios e páginas de conversão co
 | 🚗 Kiva Drive | Google Play Store | 🟢 Published |
 | 🚗 Kiva Drive | Apple App Store | 🟢 Published |
 | 🎮 Ryllo | Google Play Store | 🟢 Published |
+| 🤖 Zinho | Windows Desktop | 🟢 Available for download |
 
 </div>
 

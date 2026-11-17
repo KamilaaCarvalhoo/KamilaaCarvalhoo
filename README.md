@@ -88,13 +88,6 @@ Assistente virtual para Windows desenvolvido com React, JavaScript e Electron. P
 <a href="https://github.com/KamilaaCarvalhoo/Zinho"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/KamilaaCarvalhoo/Zinho/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/DOWNLOAD%20ZINHO-WINDOWS-34A853?style=for-the-badge&logo=windows&logoColor=white"/></a>
 
-### 💬 CHAT APPLICATION
-**Interactive AI & Messaging System**
-
-Desenvolvimento de aplicação de chat inteligente, integrando comunicação em tempo real e interfaces conversacionais modernas.
-
-<br>
-<a href="https://github.com/KamilaCarvalho"><img src="https://img.shields.io/badge/VIEW%20PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ### 🎨 WEB DEVELOPMENT & LANDING PAGES
 **UI/UX Design | Responsive Web | Digital Branding**

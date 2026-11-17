@@ -67,7 +67,7 @@ Jogo mobile desenvolvido de forma independente, explorando o ecossistema de game
 **Customer Relationship Management**
 Aplicação web Full Stack desenvolvida para otimizar a gestão de clientes, apresentando arquitetura limpa e interface altamente responsiva.
 <br>
-<a href="https://github.com/KamilaCarvalho/TERVALYA-CRM"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/KamilaaCarvalhoo/TERVALYA-CRM"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ### 💬 CHAT APPLICATION
 **Interactive AI & Messaging System**

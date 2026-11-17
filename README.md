@@ -10,17 +10,11 @@
 
 *Transformando ideias em produtos digitais, experiências e soluções tecnológicas de alto impacto.*
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px; margin-bottom: 10px;">
-  <a href="https://github.com/KamilaCarvalho">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kamila-carvalho-a735b0316">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://flow-ux-portf-lio-9t1q.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</div>
+<p align="center">
+  <a href="https://github.com/KamilaCarvalho"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kamila-carvalho-a735b0316"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://flow-ux-portf-lio-9t1q.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 </div>
 
@@ -38,7 +32,7 @@ Minha trajetória é marcada pela entrega de projetos reais de ponta a ponta —
 - 🚗 **Kiva Drive:** Aplicativo de mobilidade feminina publicado nas principais lojas globais (Google Play e App Store).
 - 🎮 **Ryllo:** Jogo mobile independente publicado na Google Play.
 - 💼 **Tervalya CRM:** Sistema Full Stack completo para gestão de relacionamento.
-- 💬 **Smart Chat / Chat Application:** Aplicação interativa de chat em tempo real com inteligência conversacional.
+- 💬 **Smart Chat Application:** Aplicação interativa de chat inteligente com foco em UX conversacional.
 - 🎨 **FlowUX:** Criação de landing pages, identidade visual e experiências digitais de alta conversão.
 
 Meu objetivo é desenvolver soluções tecnológicas que resolvam problemas reais e proporcionem experiências memoráveis aos usuários.
@@ -58,63 +52,29 @@ Meu objetivo é desenvolver soluções tecnológicas que resolvam problemas reai
 
 ### 🚗 KIVA DRIVE
 **Women's Mobility Application**
-
-Aplicativo de mobilidade urbana voltado para o público feminino, desenvolvido com foco em segurança, praticidade e uma experiência de usuário fluida e acolhedora. Um produto que une inovação tecnológica e propósito social.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Google_Play-Published-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
-  <img src="https://img.shields.io/badge/App_Store-Published-007AFF?style=for-the-badge&logo=apple&logoColor=white"/>
-</div>
+Aplicativo de mobilidade urbana voltado para o público feminino, desenvolvido com foco em segurança, praticidade e uma experiência de usuário fluida.
+[![Google Play](https://img.shields.io/badge/Google_Play-Published-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://github.com/KamilaCarvalho)
+[![App Store](https://img.shields.io/badge/App_Store-Published-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/KamilaCarvalho)
 
 ### 🎮 RYLLO
 **Mobile Game Development**
-
-Jogo mobile desenvolvido de forma independente, explorando o ecossistema de games, mecânicas interativas e otimização de performance para dispositivos móveis.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Google_Play-Published-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
-</div>
+Jogo mobile desenvolvido de forma independente, explorando o ecossistema de games e mecânicas interativas.
+[![Google Play](https://img.shields.io/badge/Google_Play-Published-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://github.com/KamilaCarvalho)
 
 ### 💼 TERVALYA CRM
 **Customer Relationship Management**
-
-Aplicação web Full Stack desenvolvida para otimizar a gestão de clientes, apresentando arquitetura limpa, segurança de dados e uma interface altamente responsiva.
-
-- Arquitetura e integração robusta entre Frontend e Backend.
-- Gestão dinâmica de dados e relatórios.
-- Interface moderna focada em produtividade.
-
-<div align="center">
-  <a href="https://github.com/KamilaCarvalho/TERVALYA-CRM">
-    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
+Aplicação web Full Stack desenvolvida para otimizar a gestão de clientes, apresentando arquitetura limpa e interface altamente responsiva.
+[![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KamilaCarvalho/TERVALYA-CRM)
 
 ### 💬 CHAT APPLICATION
 **Interactive AI & Messaging System**
-
-Desenvolvimento de aplicação de chat inteligente e dinâmico, integrando comunicação em tempo real, suporte a assistentes e interfaces conversacionais modernas.
-
-- Interface fluida com foco em UX conversacional.
-- Gerenciamento de mensagens e estados em tempo real.
-- Integração front-end altamente responsiva.
-
-<div align="center">
-  <a href="https://github.com/KamilaCarvalho">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
+Desenvolvimento de aplicação de chat inteligente, integrando comunicação em tempo real e interfaces conversacionais modernas.
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KamilaCarvalho)
 
 ### 🎨 WEB DEVELOPMENT & LANDING PAGES
 **UI/UX Design | Responsive Web | Digital Branding**
-
-Criação de ecossistemas web completos, portfólios e páginas de conversão com foco estético em *dark-mode*, tipografia marcante e performance otimizada.
-
-<div align="center">
-  <a href="https://flow-ux-portf-lio-9t1q.vercel.app">
-    <img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</div>
+Criação de ecossistemas web completos, portfólios e páginas de conversão com foco estético em *dark-mode* e alta performance.
+[![Explore Portfolio](https://img.shields.io/badge/EXPLORE%20PORTFOLIO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://flow-ux-portf-lio-9t1q.vercel.app)
 
 ---
 
@@ -171,19 +131,11 @@ Criação de ecossistemas web completos, portfólios e páginas de conversão co
 
 ## 🌐 LET'S CONNECT
 
-<div align="center">
-
-<a href="https://github.com/KamilaCarvalho">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/kamila-carvalho-a735b0316">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://flow-ux-portf-lio-9t1q.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/KamilaCarvalho"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kamila-carvalho-a735b0316"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://flow-ux-portf-lio-9t1q.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 <br>
 

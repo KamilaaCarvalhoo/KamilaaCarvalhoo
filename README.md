@@ -86,7 +86,12 @@ Criação de ecossistemas web completos, portfólios e páginas de conversão co
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind" />
 
 ### Mobile & Backend
-<img src="https://skillicons.dev/icons?i=react,expo,nodejs,express,python" />
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,python" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 
 ### Database, DevOps & Design
 <img src="https://skillicons.dev/icons?i=postgresql,firebase,git,github,vscode,figma,photoshop" />

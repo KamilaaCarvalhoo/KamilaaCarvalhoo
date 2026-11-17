@@ -61,7 +61,7 @@ Aplicativo de mobilidade urbana voltado para o público feminino, desenvolvido c
 **Mobile Game Development**
 Jogo mobile desenvolvido de forma independente, explorando o ecossistema de games e mecânicas interativas.
 <br>
-<a href="https://github.com/KamilaCarvalho"><img src="https://img.shields.io/badge/Google_Play-Published-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.flowux.ryllo&hl=pt_BR"><img src="https://img.shields.io/badge/Google_Play-Published-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
 
 ### 💼 TERVALYA CRM
 **Customer Relationship Management**

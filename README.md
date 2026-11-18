@@ -176,7 +176,7 @@ Criação de ecossistemas web completos, portfólios e páginas de conversão co
 
 ### *"Não espero uma ideia se tornar realidade. Eu construo."*
 
-**Desenvolvido com dedicação por Kamila Carvalho (FlowUX).**
+**Desenvolvido com dedicação por Kamila Carvalho.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120B24,50:6C35B5,100:B47AFF&height=100&section=footer"/>
 

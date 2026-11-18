@@ -180,4 +180,10 @@ Criação de ecossistemas web completos, portfólios e páginas de conversão co
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120B24,50:6C35B5,100:B47AFF&height=100&section=footer"/>
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KamilaaCarvalhoo/KamilaaCarvalhoo/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamilaaCarvalhoo/KamilaaCarvalhoo/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KamilaaCarvalhoo/KamilaaCarvalhoo/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
 </div>
